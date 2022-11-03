@@ -1,0 +1,25 @@
+body {
+    background-color: #66CDAA;
+}
+
+h2 {
+    color: black;
+}
+
+table {
+    background-color: white;
+    width: 80%;
+    border: 0;
+}
+
+tr {
+    background-color: pink;
+}
+
+a {
+    color: darkred;
+}
+
+td {
+    color: black;
+}
