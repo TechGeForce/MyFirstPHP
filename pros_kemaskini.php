@@ -20,7 +20,7 @@ if (isset($_POST['update']))
     "<script>window.location='index.php'</script>";
         }
     else {
-        echo "<script>alert('Maklumat tidak berjaya"
+        echo "<script>alert('Maklumat tidak berjaya dipadam. Oh man :(')</script>";
     }
 }
 ?>
